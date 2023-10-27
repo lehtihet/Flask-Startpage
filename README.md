@@ -46,8 +46,8 @@ Settings -> On startup -> Open a specific page or set of pages -> add URL for th
 
 Then Settings -> Appearance -> Show home button -> URL for the webserver.
 
-Can use an extension to bring up the page on New Tab. 
+Can use an extension to bring up the page on New Tab, like [Fast New Tab Redirect](https://chrome.google.com/webstore/detail/fast-new-tab-redirect/ohnfdmfkceojnmepofncbddpdicdjcoi). 
 
 ## Issues
 
-Exposes the API key to the client.
+Exposes the API keys to the client.
